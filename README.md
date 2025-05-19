@@ -64,7 +64,7 @@ Example: "Now rewrite the introduction to include a compelling hook and backgrou
 Use predefined structures for common content types.
 
 ## Example for a Report:
-
+```
 makefile
 Copy
 Edit
@@ -74,7 +74,7 @@ Objectives:
 Methodology: 
 Findings: 
 Conclusion:
-
+```
 
 ## Example Execution (Case Study)
 Prompt Using Query Decomposition:
